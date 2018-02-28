@@ -1,0 +1,26 @@
+body{
+  background-color: red;
+}
+
+nav{
+  height: 50px;
+  background-color: blue;
+}
+
+nav > a {
+    color:#fff;
+}
+
+#imagen-ned-portada{
+  height: 500px;
+  width: 500px;
+}
+
+.img-container{
+  height: 30vh;
+  width: 100%;
+  background:green;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
